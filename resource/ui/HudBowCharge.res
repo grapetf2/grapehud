@@ -1,0 +1,37 @@
+"Resource/UI/HudBowCharge.res"
+{	
+	"ChargeMeter"
+	{	
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter"
+		"font"			"Default"
+		"xpos"			"10"
+		"ypos"			"7"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"6"				
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"fgcolor_override"	"255 255 255 255"
+		"bgcolor_override"	"grapeDarkBG"
+	}
+	"BowChargeLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BowChargeLabel"
+		"xpos"			"131"
+		"ypos"			"4"
+		"wide"			"100"
+		"tall"			"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"			"Segoe9"
+		"fgcolor_override"		"grapeText"	
+		"labelText"		"BOW"
+	}
+}
