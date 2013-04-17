@@ -828,8 +828,6 @@
 
 	HudDamageIndicator
 	{
-	"minimumwidth" "0"
-	"maximumwidth" "0"
 	}
 
 	HudCommentary
