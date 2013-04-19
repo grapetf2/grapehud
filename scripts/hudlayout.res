@@ -545,7 +545,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-94"
-		"ypos"			"r168"
+		"ypos"			"r184"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"150"
