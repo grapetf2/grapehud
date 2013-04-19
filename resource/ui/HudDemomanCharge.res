@@ -39,6 +39,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor_override"	"grapeHP"
-		"bgcolor_override"	"grapeShadow"
+		"bgcolor_override"	"grapeMediumBG"
 	}					
 }
