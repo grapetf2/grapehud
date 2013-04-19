@@ -16,34 +16,13 @@
 		"teambg_2"		"../hud/medic_charge_red_bg"
 		"teambg_3"		"../hud/medic_charge_blue_bg"				
 	}
-	
+
 	"ChargeLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"196"
-		"ypos"			"c77"
-		"zpos"			"4"
-		"wide"			"200"
-		"tall"			"100"
-		"autoResize"	"1"
-		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"left"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"font"			"AmmoInClipNumbersSMALL"
-		"fgcolor"   "grapeHP"
-	}
-	"ChargeLabel2"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ChargeLabel2"
 		"xpos"			"1"
-		"ypos"			"c-25"
+		"ypos"			"c-05"
 		"zpos"			"4"
 		"wide"			"200"
 		"tall"			"100"
@@ -56,16 +35,16 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChatFont"
+		"font"			"Segoe12"//ChatFont
 		"fgcolor"   "grapeHP"
 	}
-	"ChargeLabelshadow"
+	"ChargeLabelShadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"ChargeLabelshadow"
-		"xpos"			"198"
-		"ypos"			"c79"
-		"zpos"			"2"
+		"fieldName"		"ChargeLabelShadow"
+		"xpos"			"2"
+		"ypos"			"c-04"
+		"zpos"			"4"
 		"wide"			"200"
 		"tall"			"100"
 		"autoResize"	"1"
@@ -74,22 +53,23 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"left"
+		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"AmmoInClipNumbersSMALL"
+		"font"			"Segoe12"//ChatFont
 		"fgcolor"   "grapeShadow"
-	}	
+	}
+	
 	"ChargeMeter"
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
-		"xpos"			"199"//30
-		"ypos"			"345"//378
+		"xpos"			"30"//30
+		"ypos"			"378"
 		"zpos"			"2"
-		"wide"			"94"//140
-		"tall"			"6"//8				
+		"wide"			"140"
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -98,7 +78,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor_override"	"grapeHP"
-		"bgcolor_override"	"grapeLightBG"
+		"bgcolor_override"	"grapeDarkBG"
 	}
 	"HealthClusterIcon"
 	{
