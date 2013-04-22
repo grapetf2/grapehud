@@ -72,7 +72,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"Segoe16"
-		"fgcolor_override"		"0 255 255 255"//grapeText
+		"fgcolor_override"		"255 0 255 255"//grapeText
 	}
 	"BuyBackLabel"
 	{
