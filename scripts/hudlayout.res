@@ -343,7 +343,7 @@
 		"xpos"          "0" 
 		"ypos"          "0" 
 		"wide"          "f0" 
-		"tall"          "481"	
+		"tall"          "480"	
 
 		"textAlignment" "center"
 		"visible"       "0" 
@@ -361,7 +361,7 @@
 		"xpos"          "0" 
 		"ypos"          "0" 
 		"wide"          "f0" 
-		"tall"          "479"
+		"tall"          "480"
 		"textAlignment" "center"
 		"visible"       "0" 
 		"visible_minmode" "0"
